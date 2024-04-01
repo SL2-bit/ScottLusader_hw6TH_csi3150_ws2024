@@ -1,0 +1,23 @@
+.hero-cont {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 550px;
+  color: #fff;
+  background-image: url("../../Assets/HeroSection-bg-image.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+h1 {
+  color: #666692;
+  font-size: 2.5rem;
+  margin: 0;
+}
+
+h2 {
+  color: #e3e2e3;
+  font-size: 1.25rem;
+  margin: 0;
+}
